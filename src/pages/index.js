@@ -44,7 +44,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      // title={`welcome${siteConfig.title}`}
+      // title={'welcome'}
       description="Derekwan的部落格">
       <HomepageHeader />
       <main>
