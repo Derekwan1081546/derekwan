@@ -6,9 +6,8 @@
       "iconBg": "#fff",
       "date": "碩士二年級",
       "points": [
-        "經營 Youtube 頻道",
-        "開發個人網站，並開始撰寫技術文章。",
-        "學習前端相關技術 TypeScript"
+        "開發個人網站，並開始撰寫個人文章。",
+        "學習雲端運算。"
       ]
     },
     {
@@ -18,9 +17,9 @@
       "iconBg": "#fff",
       "date": "碩士一年級",
       "points": [
-        "參加 2021 第 26 屆大專校院資訊應用服務創新競賽，入圍亞太中文組。",
-        "學習區塊鏈相關技術 Ethereum、Solidity、Truffle、Geth、Hyperledger Fabric、Slither、web3.js。",
-        "學習前端相關技術 React Native Expo。"
+        "參加WCE民生電子論文研討會，獲得最佳論文獎。",
+        "學習前後端相關技術 React、NodeJS、MySQL、MariaDB、javaScript。",
+        "學習利用Opencv處理電腦視覺相關問題，如物件追蹤、圖片二值化過濾。"
       ]
     },
   
@@ -31,9 +30,9 @@
       "iconBg": "#fff",
       "date": "大學四年級",
       "points": [
-        "與團隊參加校內專題競賽，獲得第一名。",
-        "學習前後端相關技術 React、NodeJS、GraphQL、Firebase、MongoDB、Mongoose。",
-        "管理近 10 人的產學合作計畫團隊，同時須負責撰寫程式碼並至北中南各地開會。"
+        "參與學校合作企業實習(實習企業:日月光半導體)，主要工作內容為撰寫C#.Net framework網頁程式以及串接資料庫(使用的資料庫系統:Oracle)。",
+        "學習資料庫系統架構。",
+        "學習利用Unity撰寫一個遊戲系統。"
       ]
     },
     {
@@ -43,11 +42,9 @@
       "iconBg": "#fff",
       "date": "大學三年級",
       "points": [
-        "與團隊參加 2019 資料創新應用競賽，獲得多元氣象服務組銅獎。",
-        "與團隊參加 2019 臺南市資料視覺挑戰賽(黑客松)",
-        "與團隊參加校內專題競賽，獲得第二名。",
-        "參與實驗室產學合作計畫",
-        "學習作業系統 Linux、Kali Linux。"
+        "學習人工智慧利用deep learning訓練",
+        "學習利用Android Studio撰寫app應用程式。",
+        "學習作業系統 Linux、Ubuntu。"
       ]
     },
     {
@@ -57,14 +54,21 @@
       "iconBg": "#fff",
       "date": "大學二年級",
       "points": [
-        "與團隊參加 2018 亞洲跨國際黑克松(國內)，入圍台灣前五名。",
-        "與團隊參加 2018 亞洲跨國際黑克松(國內外)，獲得最佳黑客獎。",
-        "與團隊參加 2018 資訊應用創新競賽，獲得教育開放資料組第二名。",
-        "與團隊參加 2018 資料創新應用競賽，入圍社會經濟空間組。",
-        "開發實驗室設備管理網頁",
-        "學習網頁前後端相關技術 HTML、CSS、JavaScript、jQuery、PHP、MySQL、Codeigniter 3。",
-        "學習程式語言 Python、Java、C。",
-        "刷高中生程式解題系統"
+        "學習各種資料結構和演算法來解決問題。",
+        "學習各種程式語言 Python、Java、C。",
+        "刷UVA。"
+      ]
+    },
+    {
+      "title": "大學一年級",
+      "name": "元智大學 - 資訊工程學系",
+      "icon": "img/logo/yzu.png",
+      "iconBg": "#fff",
+      "date": "大學二年級",
+      "points": [
+        "修課學習程式語言 C++、C。",
+        "修Web程式設計學習網頁前後端相關技術 HTML、CSS、JavaScript、jQuery、PHP等語言。",
+        "刷UVA。"
       ]
     }
   ]
