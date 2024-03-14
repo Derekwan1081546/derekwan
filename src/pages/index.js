@@ -24,7 +24,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            了解我的程式筆記
+            我的程式筆記
           </Link>
         </div>
         <br></br>
@@ -32,7 +32,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/blog">
-            了解我的部落格
+            我的部落格
           </Link>
         </div>
       </div>
