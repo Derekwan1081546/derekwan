@@ -38,6 +38,8 @@ const ProjectCard = ({
   tech,
   role,
   githubUrl,
+  projectUrl,
+  videoUrl,
   channelUrl,
   colorMode,
   awards,
@@ -93,6 +95,37 @@ const ProjectCard = ({
             </button>
           </a>
         )}
+
+
+        {projectUrl && (
+          <a href={projectUrl} target="_blank" rel="noreferrer noopenner">
+            <button
+              className={[
+                styles.button,
+                colorMode === "light" && styles.buttonLight,
+              ].join(" ")}
+              role="button"
+            >
+              <span>專案連結</span>
+            </button>
+          </a>
+        )}
+
+
+        {videoUrl && (
+          <a href={videoUrl} target="_blank" rel="noreferrer noopenner">
+            <button
+              className={[
+                styles.button,
+                colorMode === "light" && styles.buttonLight,
+              ].join(" ")}
+              role="button"
+            >
+              <span>影片連結</span>
+            </button>
+          </a>
+        )}
+
 
         {channelUrl && (
           <a href={channelUrl} target="_blank" rel="noreferrer noopenner">

@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Derekwan's blog",
-  tagline: '歡迎來到Derekwan的部落格!',
+  tagline: '歡迎來到我的部落格!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,11 +65,20 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      announcementBar: {
+        id: "support_us",
+        content:
+          '⭐️ 歡迎來到我的 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Derekwan1081546">Github</a> 參觀哦！ ⭐️',
+        backgroundColor: "#68B984",
+
+        textColor: "#091E42",
+        isCloseable: false,
+      },
       navbar: {
         title: "Derekwan's blog",
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {

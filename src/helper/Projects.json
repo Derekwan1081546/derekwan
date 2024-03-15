@@ -1,61 +1,54 @@
 [
     {
       "id": 1,
-      "projectTitle": "去中心化二手車交易與管理平台",
-      "projectDescribe": "使用以太坊私有鏈打造一個去中心化二手車交易與管理平台，透過跟特定廠商合作來使汽車維修和保養的資料透明公開，使消費者在購買二手車時能夠信任該部汽車的車主。",
-      "projectImage": "img/projects/DVM.png",
-      "projectUrl": "https://www.cakeresume.com/portfolios/bde04b",
+      "projectTitle": "AI模型開發服務網站研討",
+      "projectDescribe": "近年來，AI技術的快速發展已經引領了一場數位革命，其應用範圍遍及各個領域，為不同需求的場合下提供了無限的應用潛力。而當前卻很少有一服務網站的平台存在，能夠將使用者針對其需求的AI模型開發與應用過程進行整合。故本團隊擬研討一AI模型開發服務網站平台，旨在將團隊其他部門的AI模型訓練、硬體圖像採集等不同領域的專業知識成果整合於一個功能簡扼明瞭的線上平臺。",
+      "projectImage": "img/projects/web2.png",
       "tech": [
-        {
-          "name": "Ethereum",
-          "color": "#86A3B8"
-        },
-        {
-          "name": "Solidity",
-          "color": "#567189"
-        },
-        {
-          "name": "Metamask",
-          "color": "#F2921D"
-        },
-        {
-          "name": "Slither",
-          "color": "#F55050"
-        },
         {
           "name": "React",
           "color": "#0081B4"
-        }
-      ],
-      "role": "全端",
-      "videoUrl": "https://www.youtube.com/watch?v=-kcfoJK1nhs",
-      "awards": ["🎉 資訊應用服務創新競賽 入圍亞太中文組"]
-    },
-    {
-      "id": 2,
-      "projectTitle": "水情報你知 FloodingHelper",
-      "projectDescribe": "因台灣每年都有民眾至溪邊戲水而遭遇危險，危險通常是因上游下暴雨造成溪流暴漲，但下游民眾不知情，等溪流暴漲在逃跑就來不及了，故該專題開發了一款水情通知APP，會依照危險程度推播訊息給使用者。",
-      "projectImage": "img/projects/FloodingHelper.png",
-      "tech": [
-        {
-          "name": "Android Studio",
-          "color": "#03C988"
         },
         {
-          "name": "Codeigniter 3",
-          "color": "#D61355"
+          "name": "javaScript",
+          "color": "#567189"
+        },
+        {
+          "name": "Nodejs",
+          "color": "#F2921D"
         },
         {
           "name": "MySQL",
-          "color": "#C92C6D"
+          "color": "#F55050"
         }
       ],
       "role": "全端",
-      "projectUrl": "https://www.cakeresume.com/portfolios/bde04b",
+      "projectUrl": "http://52.5.196.201:3000/",
+      "awards": ["🎉 WCE民生電子論文研討會獲得最佳論文獎"]
+    },
+    {
+      "id": 2,
+      "projectTitle": "晶片生產紀錄遺失補救工具",
+      "projectDescribe": "在大量製造晶圓的工廠中，難免會因為一些意外因素而導致產出的某些部分會有一些瑕疵的地方，所以在工廠生產晶片的過程當中，為了能夠確保在發現晶片有瑕疵時，可以追溯產品的一系列生產過程，因此公司會將產品的每一階段的生產資訊都記錄下來。 為了能夠在後續晶片有任何的瑕疵時，可以追溯生產源頭，因此在這個過程中，記錄系統會以底座為單位儲存為一個檔案，每個底座內的晶片都會被記錄下原先位於晶圓時的晶圓座標、放入底座後的底座座標、以及來源晶圓的編號。",
+      "projectImage": "img/projects/wafer.png",
+      "tech": [
+        {
+          "name": "Visual Studio",
+          "color": "#03C988"
+        },
+        {
+          "name": "C#",
+          "color": "#D61355"
+        },
+        {
+          "name": "Oracle",
+          "color": "#C92C6D"
+        }
+      ],
+      "role": "程式開發、演算法設計",
+      "videoUrl": "https://www.youtube.com/watch?v=UfGlOcnok7o",
       "awards": [
-        "🏅 資料創新應用競賽 多元氣象服務組-銅獎",
-        "🏅 校內專題競賽(三) 第一名",
-        "🏅 校內專題競賽(二) 第二名"
+        "🏅 參與校內概念性創意專題競賽"
       ]
     },
   
@@ -78,27 +71,6 @@
       "awards": [
         "🏅 亞洲跨國際黑克松 入圍台灣前五名",
         "🏅 亞洲跨國際黑克松 最佳黑客獎"
-      ]
-    },
-    {
-      "id": 4,
-      "projectTitle": "服務足跡 Footprint",
-      "projectDescribe": "為了能夠讓教育資源運用在真正需要的地方，該專題蒐集了全台灣的國中小開放資料，並可針對特定條件進行搜尋，例如：學生總數、學校坪數、是否為偏鄉學校等，搜尋後會將結果以 Google Map 的方式顯示給服務團隊看，讓服務團隊能夠將資源投入到正確的地方。",
-      "projectImage": "img/projects/Footprint.png",
-      "tech": [
-        {
-          "name": "Codeigniter 3",
-          "color": "#D61355"
-        },
-        {
-          "name": "MySQL",
-          "color": "#C92C6D"
-        }
-      ],
-      "role": "後端",
-      "awards": [
-        "🏅 資訊應用創新競賽 教育開放資料組-第二名",
-        "🎉 資料創新應用競賽 入圍社會經濟空間組"
       ]
     }
   ]

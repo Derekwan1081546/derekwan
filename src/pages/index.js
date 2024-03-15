@@ -11,13 +11,14 @@ import Experiences from "../helper/experience.json";
 import Projects from "../components/Projects/Projects";
 import Project from "../helper/Projects.json";
 import SideProject from "../helper/SideProjects.json";
+import { color } from 'framer-motion';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+         Welcome to Derekwan's blog!
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
