@@ -23,8 +23,8 @@
         }
       ],
       "role": "全端",
-      "projectUrl": "http://52.5.196.201:3000/",
-      "awards": ["🎉 WCE民生電子論文研討會獲得最佳論文獎"]
+      "webUrl": "http://52.5.196.201:3000/",
+      "awards": ["🏅 WCE民生電子論文研討會獲得最佳論文獎"]
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "role": "程式開發、演算法設計",
       "videoUrl": "https://www.youtube.com/watch?v=UfGlOcnok7o",
       "awards": [
-        "🏅 參與校內概念性創意專題競賽"
+        "🎉 參與校內概念性創意專題競賽"
       ]
     },
   

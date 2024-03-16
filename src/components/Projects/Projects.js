@@ -40,6 +40,7 @@ const ProjectCard = ({
   githubUrl,
   projectUrl,
   videoUrl,
+  webUrl,
   channelUrl,
   colorMode,
   awards,
@@ -95,6 +96,22 @@ const ProjectCard = ({
             </button>
           </a>
         )}
+
+
+        {webUrl && (
+          <a href={webUrl} target="_blank" rel="noreferrer noopenner">
+            <button
+              className={[
+                styles.button,
+                colorMode === "light" && styles.buttonLight,
+              ].join(" ")}
+              role="button"
+            >
+              <span>網站連結</span>
+            </button>
+          </a>
+        )}
+
 
 
         {projectUrl && (

@@ -7,12 +7,12 @@
       "githubUrl": "https://github.com/Derekwan1081546",
       "tech": [
         {
-          "name": "Github Action Workflows",
+          "name": "Github Workflows",
           "color": "#181823"
         },
         {
           "name": "Markdown",
-          "color": "#20262E"
+          "color": "#fa00fa"
         }
       ]
     },
@@ -39,24 +39,28 @@
     },
     {
       "id": 3,
-      "projectTitle": "圖書網站",
-      "projectDescribe": "家人反映有時候也會在網路上購買書籍，要開 APP 查詢有點不方便，於是將圖書 APP 另外開發成網頁版。",
-      "projectImage": "img/projects/WebBook.png",
+      "projectTitle": "個人部落格網站",
+      "projectDescribe": "透過這樣的方式來記錄自己曾經做了哪些事情，也是順便代表一個各人作品集的網站，時不時可以將做過的作品上傳到此網站上。",
+      "projectImage": "img/projects/blog.png",
       "tech": [
         {
-          "name": "Next.js 13",
+          "name": "React",
           "color": "#161A30"
         },
         {
-          "name": "MongoDB",
+          "name": "Markdown",
           "color": "#68B984"
         },
         {
-          "name": "Mongoose",
+          "name": "JavaScript",
           "color": "#FF1E1E"
+        },
+        {
+          "name": "docusaurus",
+          "color": "#0096FF"
         }
       ],
-      "githubUrl": "https://github.com/WeiYun0912/React-Native-Book"
+      "webUrl": "https://derekwan.vercel.app/"
     },
     
     {
