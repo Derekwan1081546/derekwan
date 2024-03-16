@@ -54,23 +54,20 @@
   
     {
       "id": 3,
-      "projectTitle": "Place Radar",
-      "projectDescribe": "蒐集台灣、韓國、日本的開放資料並分析該國家的某區域人口年齡分佈與幸福生活指數等，透過這樣的方式讓要在該區域買房子的人快速了解周遭的生活機能以及居住品質。",
-      "projectImage": "img/projects/PlaceRadar.png",
+      "projectTitle": "智慧小幫手(聲控語音助理)",
+      "projectDescribe": "使用Google Speech Recognition將聲音轉變為文字並加以辨識衍伸功能，以及使用Google Cloud Speech API將文字轉為語音檔案播出提升人機互動性。本次專題主要以智慧助理做為發想，因此更著重在使用者與語音助理的互動性上。當程式執行後就會開始接收音訊並辨識，當辨識出「你好」這個關鍵字時便會由助理說出「您好，有什麼需要為您服務的嗎?」並進入第二次的收音以及辨識，根據辨識到的語句去判斷是否有某些功能相關的詞彙在內，進而執行對應的功能，若沒有偵測到語音則回到第一次收音，能夠執行的功能如下:播放關閉音樂、計時、提醒、開關燈、計算機、拍照、鬧鐘等功能。",
+      "projectImage": "img/projects/iot.png",
       "tech": [
         {
-          "name": "Codeigniter 3",
+          "name": "python",
           "color": "#D61355"
         },
         {
-          "name": "MySQL",
+          "name": "Raspberry Pi",
           "color": "#C92C6D"
         }
       ],
-      "role": "後端",
-      "awards": [
-        "🏅 亞洲跨國際黑克松 入圍台灣前五名",
-        "🏅 亞洲跨國際黑克松 最佳黑客獎"
-      ]
+      "role": "硬體線路配置、操作流程測試、程式開發",
+      "videoUrl": "https://www.youtube.com/watch?v=mhrJWRS5wpQ"
     }
   ]
