@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # uva2
 
 ```cpp title="uva2.cpp" showLineNumbers
