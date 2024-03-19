@@ -8,7 +8,7 @@ sidebar_position: 5
 ### 限制條件：
 - `0 <= x <= 2^31 - 1`
 ## 解題思路
-數學題:首先宣告一個`numbers`一串裡面總共有1~9元素，再來宣告一個`vector`用來計算n個數字的總排列數量，接著跑一個for迴圈執行n次並將j除以排列的數量來確認第一個數字是到哪裡，接著再求餘數繼續確認第二個數字以此類推，此外每當找到一個數字就將此數字移除`numbers`字串，最後回傳`result`。
+利用二元搜尋法(Binary Search):首先宣告兩個變數分別為`left`和`right`以及`middle`，其中`middle`為`left`和`right`的中間值，利用`middle`來判斷當前值比較高或低，若是比較低，則將`left`提整為`middle+1`﹔若是比較高，則將`right`提整為`middle-1`，直到`left`大於`right`為止才跳出。
 ## 參考解法
 ```cpp title="C++" showLineNumbers {14,15}
 class Solution {
