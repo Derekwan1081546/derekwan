@@ -10,14 +10,10 @@ sidebar_position: 5
 ## 解題思路
 利用二元搜尋法(Binary Search):首先宣告兩個變數分別為`left`和`right`以及`middle`，其中`middle`為`left`和`right`的中間值，利用`middle`來判斷當前值比較高或低，若是比較低，則將`left`提整為`middle+1`﹔若是比較高，則將`right`提整為`middle-1`，直到`left`大於`right`為止才跳出。
 ## 參考解法
-```cpp title="C++" showLineNumbers {14,15}
+```cpp title="C++" showLineNumbers
 class Solution {
 public:
     int mySqrt(int x) {
-        // double v;
-        // v=sqrt(x);
-        // return v;
-
         // binary search
         long left = 1, right = x;
         while (left <= right) {
