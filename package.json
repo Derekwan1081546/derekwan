@@ -17,6 +17,7 @@
     "@docusaurus/core": "3.1.1",
     "@docusaurus/preset-classic": "3.1.1",
     "@mdx-js/react": "^3.0.0",
+    "@vercel/analytics": "^1.2.2",
     "clsx": "^2.0.0",
     "framer-motion": "^11.0.12",
     "prism-react-renderer": "^2.3.0",
