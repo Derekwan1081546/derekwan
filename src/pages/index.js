@@ -12,6 +12,7 @@ import Projects from "../components/Projects/Projects";
 import Project from "../helper/Projects.json";
 import SideProject from "../helper/SideProjects.json";
 import { color } from 'framer-motion';
+import { Analytics } from '@vercel/analytics/react';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -93,7 +94,9 @@ export default function Home() {
           />
         </div>
       </main>
+      <Analytics></Analytics>
     </Layout>
+    
   );
 }
 
