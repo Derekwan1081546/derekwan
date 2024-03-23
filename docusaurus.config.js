@@ -144,6 +144,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      metadata: [
+        {
+          googleSiteVerification: 'EvrJeEbVHSjxeiU0znafeC82EObxTXftZeEHfASEFII',
+        },
+      ],
     }),
 };
 
