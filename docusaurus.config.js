@@ -146,9 +146,11 @@ const config = {
       },
       metadata: [
         {
-          googleSiteVerification: 'EvrJeEbVHSjxeiU0znafeC82EObxTXftZeEHfASEFII',
-        },
-      ],
+          name: 'google-site-verification',
+          content: 'EvrJeEbVHSjxeiU0znafeC82EObxTXftZeEHfASEFII',
+        }
+        // 可以添加更多的 <meta> 标签
+      ]
     }),
 };
 
