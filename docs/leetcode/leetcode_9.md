@@ -1,7 +1,5 @@
----
-sidebar_position: 3
----
-# Leetcode-9
+
+# Leetcode-9. Palindrome Number
 ## 題目說明
 給定一個整數 x，如果 x 是回文(即從左到右或從右到左讀字皆為一樣)，則傳回 true ，否則為 false。
 ### 限制條件：

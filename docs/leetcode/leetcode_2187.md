@@ -1,7 +1,5 @@
----
-sidebar_position: 7
----
-# Leetcode-2187
+
+# Leetcode-2187. Minimum Time to Complete Trips
 ## 題目說明
 給定一個陣列時間，其中 `time[i]` 表示第 `i` 輛巴士完成一次行程所需的時間。
 

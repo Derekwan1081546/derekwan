@@ -1,7 +1,5 @@
----
-sidebar_position: 1
----
-# Leetcode-1
+
+# Leetcode-1. Two Sum
 ## 題目說明
 給一個nums陣列和一個 target，找出nums陣列中兩數相加等於 target 的 index。
 ### 限制條件：

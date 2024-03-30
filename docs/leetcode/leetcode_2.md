@@ -1,7 +1,5 @@
----
-sidebar_position: 2
----
-# Leetcode-2
+
+# Leetcode-2. Add Two Numbers
 ## 題目說明
 給定兩個表示兩個非負整數的非空`linked lists`。 這些數字以相反的順序儲存，並且每個節點都包含一個數字。 將兩個數字相加並以`linked lists`形式傳回總和。
 您可以假設這兩個數字不包含任何前導零，除了數字 0 本身。

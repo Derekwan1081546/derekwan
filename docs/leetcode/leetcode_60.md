@@ -1,7 +1,5 @@
----
-sidebar_position: 4
----
-# Leetcode-60
+
+# Leetcode-60. Permutation Sequence
 ## 題目說明
 一個集合 `[1, 2, 3, ..., n]` 總共包含 `n！`個獨特的排列。
 透過按順序列出並標記所有排列，我們得到 n = 3 時的以下序列：

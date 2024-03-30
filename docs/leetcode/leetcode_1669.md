@@ -1,7 +1,5 @@
----
-sidebar_position: 6
----
-# Leetcode-1669
+
+# Leetcode-1669. Merge In Between Linked Lists
 ## 題目說明
 給定兩個`linked lists`：`list1` 和 `list2`，大小分別為 n 和 m。
 將`list1`的節點從第a個節點刪除到第b個節點，並將`list2`放在它們的位置。
