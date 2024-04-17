@@ -1,5 +1,5 @@
 
-# Leetcode-13. Roman to Integer
+# Leetcode-12. Integer to Roman
 ## 題目說明
 羅馬數字以七個不同的符號表示：`I`、`V`、`X`、`L`、`C`、`D` 和 `M`。
 | Symbol |  Value |
