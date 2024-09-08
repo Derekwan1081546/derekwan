@@ -16,7 +16,7 @@
 如果遍歷完所有數字後都需要進位（即原數字每一位都是 9），則在向量前面插入一個 1。
 這樣，即使是非常大的數字也可以正確處理，無需擔心整數溢出問題。
 ## 參考解法
-```cpp title="C++" showLineNumbers {14,15}
+```cpp title="C++"
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
