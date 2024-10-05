@@ -47,7 +47,7 @@
 
 最終結果：若總油量大於等於總成本，則返回上次能繞圈的加油站 `start`。
 ## 參考解法
-```cpp title="C++ unordered_set" showLineNumbers
+```cpp title="C++" showLineNumbers
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
