@@ -1,5 +1,19 @@
 [
     {
+      "title": "碩士二年級",
+      "name": "國立台北科技大學 - 電機工程研究所",
+      "icon": "img/logo/ntut.png",
+      "iconBg": "#fff",
+      "date": "碩士二年級",
+      "points": [
+        "參加WCE民生電子論文研討會，連續兩年獲得最佳論文獎。",
+        "學習雲端部署架構相關技術 Docker、Kubernetes、CI/CD。",
+        "學習利用容器化來部署前後端並且部署至雲端AWS。",
+        "後端改寫為Python Flask，並且重新設計後端整體架構。",
+        "學習進階資料庫系統架構。"
+      ]
+    },
+    {
       "title": "碩士一年級",
       "name": "國立台北科技大學 - 電機工程研究所",
       "icon": "img/logo/ntut.png",
@@ -10,7 +24,7 @@
         "學習前後端相關技術 React、NodeJS、MySQL、MariaDB、javaScript。",
         "學習利用Opencv處理電腦視覺相關問題，如物件追蹤、圖片二值化過濾。",
         "開發個人網站，並開始撰寫個人文章。",
-         "學習雲端運算。"
+        "學習雲端運算。"
       ]
     },
     {
@@ -32,7 +46,7 @@
       "iconBg": "#fff",
       "date": "大學三年級",
       "points": [
-        "學習人工智慧利用deep learning訓練",
+        "學習人工智慧利用Deep Learning訓練",
         "學習利用Android Studio撰寫app應用程式。",
         "學習作業系統 Linux、Ubuntu。"
       ]
