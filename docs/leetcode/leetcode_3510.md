@@ -1,5 +1,5 @@
 
-# Leetcode-3507. Minimum Pair Removal to Sort Array I
+# Leetcode-3510. Minimum Pair Removal to Sort Array II
 ## 題目說明
 給定一個陣列 `nums`，您可以執行下列操作任意次數：
 
