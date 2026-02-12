@@ -5,6 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
+@import "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css";
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
