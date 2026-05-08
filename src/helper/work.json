@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Backend Engineer",
+    "name": "友達光電 · 全職",
+    "icon": "img/logo/yzu.png",
+    "iconBg": "#fff",
+    "date": "2025年9月 - 現在",
+    "points": [
+      "工作地點：台灣 高雄市 前鎮區 · 現場。",
+      "後端開發，主要使用 Spring Boot 框架建置服務。",
+      "使用 Spring Security 處理身份驗證與授權相關功能。",
+      "與團隊協作開發內部系統，並維護既有專案的穩定性與擴充性。"
+    ]
+  },
+  {
+    "title": "Software Developer",
+    "name": "InstAI Inc. · 兼職",
+    "icon": "img/logo/yzu.png",
+    "iconBg": "#fff",
+    "date": "2023年7月 - 2025年8月",
+    "points": [
+      "工作地點：台灣 臺北市 · 混合型。",
+      "兼職軟體開發工程師，負責產品功能的設計、開發與維護。",
+      "與團隊協作完成多項軟體開發任務，協助優化系統流程與效能。"
+    ]
+  },
+  {
+    "title": "Software Engineer Internship",
+    "name": "Chunghwa Telecom Co, Ltd. · 實習",
+    "icon": "img/logo/yzu.png",
+    "iconBg": "#fff",
+    "date": "2024年7月 - 2025年1月",
+    "points": [
+      "工作地點：台灣 臺北市 中正區 · 現場。",
+      "主要負責設計前端 (React.js、Vue.js) 網頁使用者介面。",
+      "串接後端的簽署 API，完成前後端整合功能。",
+      "技能：前端開發、React.js、Vue.js 等。"
+    ]
+  },
+  {
+    "title": "Software Engineer Internship",
+    "name": "日月光 · 實習",
+    "icon": "img/logo/yzu.png",
+    "iconBg": "#fff",
+    "date": "2022年2月 - 2023年6月",
+    "points": [
+      "工作地點：台灣 桃園市 中壢區 · 現場。",
+      "主要工作內容為撰寫 C# .NET Framework 網頁程式。",
+      "串接資料庫 (使用的資料庫系統：Oracle)，進行資料的存取與管理。",
+      "技能：後端網頁開發、前端開發等。"
+    ]
+  }
+]

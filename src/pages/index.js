@@ -8,6 +8,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Experience from "../components/experience/experience";
 import Experiences from "../helper/experience.json";
+import Works from "../helper/work.json";
 import Projects from "../components/Projects/Projects";
 import Project from "../helper/Projects.json";
 import SideProject from "../helper/SideProjects.json";
@@ -79,6 +80,26 @@ export default function Home() {
               return (
                 <>
                   <Experience Experiences={Experiences} />
+                </>
+              );
+            }}
+          </BrowserOnly>
+
+          <h1
+            style={{
+              fontSize: "clamp(2rem, 3vw + 1rem, 3rem)",
+              textAlign: "center",
+              marginBottom: "4rem",
+              marginTop: "4rem",
+            }}
+          >
+            工作經歷
+          </h1>
+          <BrowserOnly fallback={<Loading />}>
+            {() => {
+              return (
+                <>
+                  <Experience Experiences={Works} />
                 </>
               );
             }}
